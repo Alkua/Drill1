@@ -4,3 +4,19 @@ Template: twentyseventeen
 Author: Alkua
 Version: 0.0.1 
 */
+
+body{
+    
+    background: rgb(132, 179, 194);
+}
+
+h1{
+    background: rgb(48, 42, 48);
+    color: rgb(245, 245, 220);
+}
+
+p{
+    color: rgb(245, 245, 220);
+
+    background: rgb(124, 110, 124);
+}
